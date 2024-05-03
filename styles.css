@@ -20,7 +20,7 @@ body {
     align-items: center;
     display: flex;
     flex-direction: column;
-    --building-color1: #999;
+    --building-color1: #aa80ff;
 }
 
 .bb1a {
